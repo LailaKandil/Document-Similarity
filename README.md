@@ -1,1 +1,2 @@
 # Document-Similarity
+What this code does is that it compares between two documents ,where one of them could be a file, and find the similar words between them and it can output either the union or the instersect of the phrases in the two documents. Similarity is measured by binary cosine coefficient. The coefficient is a value between 0 and 1, where 1 indicates that the query (or document) is very similar to the document and 0 indicates that the query has no keywords in common with the document.
